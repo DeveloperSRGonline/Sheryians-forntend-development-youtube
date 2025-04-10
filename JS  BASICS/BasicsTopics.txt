@@ -1,0 +1,17 @@
+// * Basics topics :
+// js ✅
+// -word vs keyword ✅
+// -var const let ✅
+// -hoisting ✅
+// -types in js ✅
+// -primitive and reference ✅
+// -conditionals ✅
+// -if else if else if else ✅
+// -loops ✅
+// -for while ✅
+// -functions ✅
+// -params ,arguments ✅
+// -arrays ✅
+// -push pop shift unshift ✅
+// -objects ✅
+// -props vs methods 
