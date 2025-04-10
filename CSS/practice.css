@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+} 
+/* above is css boilerplate code  */
+
+h1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 100%;
+    padding: 100%;
+}
+/* above is css writing way */
+
+/* margin - space between two element
+   padding - space inside element */
+
+#img{
+    background: url(https://wallpaperset.com/w/full/c/9/0/522708.jpg);
+    background-size: cover;
+    background-position: center;
+}
+/* above is example of background related things */
+/* position absolute means - lifting element above , and it able to move in any direction 
+position relative means -  absolute element can move inside relative element not outside it */
+
+#div{
+    display: flex;
+    justify-content:center ;
+    align-items:center ; 
+}
+/* "Display flex" can be given only to parent
+   justify-content is for - "width" 
+   align-item for - "height" */

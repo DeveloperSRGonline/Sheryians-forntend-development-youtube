@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+/* h1{
+    styling - code here(this is styling way of css)
+} */
+
+/* units....*/
+nav{ 
+    height: 10px;
+    height: 10%;
+} 
+
+/* margin and padding */
+
+nav {
+    margin: 10px;
+    padding: 10px;
+}
+#main{
+    width: 100%;
+    height: 100%;
+    background: url(https://www.bing.com/th?id=OIP.Z_PIeIRDajXPmZHROt-T_QHaEK&w=162&h=100&c=8&rs=1&qlt=90&o=6&dpr=2.2&pid=3.1&rm=2);
+    background-size: cover;
+    background-position: center;
+}
